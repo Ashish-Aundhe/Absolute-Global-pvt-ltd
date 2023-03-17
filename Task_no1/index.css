@@ -1,0 +1,26 @@
+
+#home{
+  height: 100vh;
+  width: 100vw;
+}
+.absimg{
+  height: 50px;
+  width: 200px;
+  background-color: rgb(149, 161, 170);
+  border-radius: 10px;
+  margin: 10px;
+}
+.container-fluid{
+  display: flex;
+}
+.collapse{
+  float: right;
+}
+.collapse a{
+  margin: 10px;
+ 
+}
+.img1{
+  height: 50%;
+  width: 100%;
+}
